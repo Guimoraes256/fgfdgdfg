@@ -57,3 +57,70 @@ Rodrigo tirou as mãos das costas enquanto a corda caia no chão e depois sacou 
 Ele balançou a cabeça confirmando enquanto suava frio, então Rodrigo começou a sugar a sorte do homem e depois de ter terminado pego as suas coisas e arremesso o segurança no chão, e foi em direção à saída. Enquanto caminhava o homem espirou, então ele parou e olhou para trás.
 - Que azar o seu, parece que acabou ficando gripado. Ah e vale ressaltar que você não precisa se preocupar porque eu nunca mais vou voltar nessa espelunca, existem lugares muito melhores na cidade. Não preciso vir em um lugar que não reconhece o brilho da minha sorte
 
+    'TRUE RPG
+    '
+    '  Depois da guerra dos cogumelos a humanidade foi forçada a viver em cavernas por séculos até a superfice ficar estável
+    '  novamente. Quase todos os avanços tecnologicos foram perdidos e a humanidade teve que recomeçar do zero. Para evitar novas guerras
+    '  foi criada uma aliança entre os 3 principais clãs humanos, com isso se criou o reino Trialiance para governar a todos.
+    '  Esse mundo se tornou perigoso aos humanos, varías criaturas mutantes nasceram da guerra, máquinas de batalha antigas estão acordando e
+    '  grupos de **********************.
+    '  Mas nem todos se preocupam com os maiores problemas atuais, alguns na verdade apenas se concentram nos próprios. E você é um deles.
+    '
+    '  De noite na praça o homem do rei esta com os pais do principal e o prefeito da cidade esta ao lado. Tem um monte de gente assistindo.
+    '  Chega o principal na praça.
+    '
+    '  Homem Governo: Prefeito são essas as provas que eu apresento contra Grégori France e Joana France, como pode perceber é transparente como água
+    '                 o fato deles serem aliados dos revolucionistas. Peço principalmente que o seu veredito seja completamente imparcial e que se lembre
+    '                 que antes de ser tio da acusada você é o prefeito dessa cidade e servo juramentado do rei.
+    '
+    '  Prefeito:      Eu sei disso Frederick, não precisa me lembrar dos meus deveres. Joana, esse julgamento esta sendo a sua palavra contra a de um
+    '                 homem do rei e das provas que ele possuí. Existe algo mais que você queira usar em sua defesa?
+    '
+    '  Joana:         Apenas a minha palavra tio, de que eu não faço parte dos revolucionistas que querem tomar o reino.
+    '
+    '  Prefeito:      Entendo... Infelizmente tenho que dar o veredito. As provas apresentadas por Frederick são sólidas, com isso eu condeno os acusa...
+    '
+    '  Principal:     Espere! Esse julgamento está sendo injusto!
+    '
+    '  Homem Governo: Injusto?! Quem você pensa que é fedelho para achar que se sabe algo de injustiça? Quem é esse Robert?
+    '
+    '  Prefeito:      Ele é [Name] filho dos acusados. Você diz que o julgamento está sendo injusto, qual é o seu argumento sobre isso?
+    '
+    '  Principal:     Simples tio, os meus pais não tiverem um direito digno de se defender.
+    '
+    '  Homem Governo: Que? É claro que eles tiveram! Tanto que este jugamento está ocorrendo agora, onde nós demos a oportunidade deles se defenderem.
+    '
+    '  Principal:     Oportunidade? O julgamento começou logo assim que eles foram presos! Nem tiveram tempo de armar uma defesa e colher provas e
+    '                 testemunhas ao seu favor!
+    '
+    '  Homem Governo: As coisas sempre funcionaram assim, se um camponês ignorante não sabe isso já não é problema meu.
+    '
+    '  Principal:     Eu discordo, pois digo que não é assim que um julgamento justo ocorre!
+    '
+    '  Prefeito:      É impressionante [Name] como a escola de ********** que você está fazendo dando resultados.
+    '
+    '  Homem Governo: Escola de *********?!
+    '
+    '  Prefeito:      Sim Frederick, mesmo a minha sobrinha não sendo de classe alta eu disponibilizei dinheiro para que o seu filho pudesse estudar
+    '                 e ter um futuro promisso. o rapaz é brilhante admito, tanto atléticamente quanto mentalmente. Ele é o filho que eu nunca pude ter.
+    '
+    '  Prefeito:      O que ele diz faz sentindo e seus argumentos tem base na lei. Pois então eu dou esse veredito, o julgamento ficará suspenso por
+    '                 60 dias enquanto você [Name] prepara a sua defesa para salvar os seus país. Enquanto isso os acusados ficaram presos até que o
+    '                 julgamento ocorra.
+    '
+    '  Homem Governo: Isso é um absurdo!
+    '
+    '  Prefeito:      O veredito não tem nada de absurdo Frederick, o argumento proposto é valído e a lei diz que todos tem direito de se defender de
+    '                 maneira digna. E principalmente como você mesmo sugeriu, eu estou tratando do caso de maneira imparcial e colocando a justiça
+    '                 em primeiro lugar.
+    '
+    '  Homem Governo: Que veredito seja esse então! Mas digo que o próximo julgamento será comandado pelo próprio rei e que os acusados ficarão presos
+    '                 nas masmoras real enquanto aguardam.
+    '
+    '  Prefeito:      Eu já disse Frederick eu sou o...
+    '
+    '  Homem Governo: Sei que é o prefeito da cidade, mas eu sou o conselheiro do rei. E o que eu digo tem mais peso do que a sua palavra. Você pode
+    '                 ser um homem do rei, mas eu sou maior que você. A sua sentença foi dada,mas  agora recorremos a do rei. Os verdadeiros culpados
+    '                 serã condenados isso eu não duvido, porém tenho que ter certeza que o laço familiar não vai atrapalhar que a justiça seja feita,
+    '                 e creio que o rei não irá discordar de mim. Ou acha que é mais justo que o rei?
+
