@@ -63,37 +63,38 @@ Ele balançou a cabeça confirmando enquanto suava frio, então Rodrigo começou
     '  novamente. Quase todos os avanços tecnologicos foram perdidos e a humanidade teve que recomeçar do zero. Para evitar novas guerras
     '  foi criada uma aliança entre os 3 principais clãs humanos, com isso se criou o reino Trialiance para governar a todos.
     '  Esse mundo se tornou perigoso aos humanos, varías criaturas mutantes nasceram da guerra, máquinas de batalha antigas estão acordando e
-    '  grupos de **********************.
+    '  grupos de rebeldes desejam tomar o poder do rei para sí.
     '  Mas nem todos se preocupam com os maiores problemas atuais, alguns na verdade apenas se concentram nos próprios. E você é um deles.
     '
     '  De noite na praça o homem do rei esta com os pais do principal e o prefeito da cidade esta ao lado. Tem um monte de gente assistindo.
-    '  Chega o principal na praça.
+    '  Chega o principal na praça e olha tudo que esta acontecendo.
     '
-    '  Homem Governo: Prefeito são essas as provas que eu apresento contra Grégori France e Joana France, como pode perceber é transparente como água
-    '                 o fato deles serem aliados dos revolucionistas. Peço principalmente que o seu veredito seja completamente imparcial e que se lembre
+    '  Homem Governo: Prefeito são essas as provas que eu apresento contra Grégorio France e Joana France, como pode perceber é transparente como água
+    '                 o fato deles serem aliados dos rebeldes. Peço principalmente que o seu veredito seja completamente imparcial e que se lembre
     '                 que antes de ser tio da acusada você é o prefeito dessa cidade e servo juramentado do rei.
     '
     '  Prefeito:      Eu sei disso Frederick, não precisa me lembrar dos meus deveres. Joana, esse julgamento esta sendo a sua palavra contra a de um
     '                 homem do rei e das provas que ele possuí. Existe algo mais que você queira usar em sua defesa?
     '
-    '  Joana:         Apenas a minha palavra tio, de que eu não faço parte dos revolucionistas que querem tomar o reino.
+    '  Joana:         Apenas a minha palavra tio, de que eu não faço parte dos rebeldes que querem tomar o reino, e tenho certeza que você sabe que isso
+    '                 é verdade!
     '
-    '  Prefeito:      Entendo... Infelizmente tenho que dar o veredito. As provas apresentadas por Frederick são sólidas, com isso eu condeno os acusa...
+    '  Prefeito:      Eu acredito... Infelizmente tenho que dar o veredito. As provas apresentadas por Frederick são sólidas, com isso eu condeno os acusa...
     '
     '  Principal:     Espere! Esse julgamento está sendo injusto!
     '
-    '  Homem Governo: Injusto?! Quem você pensa que é fedelho para achar que se sabe algo de injustiça? Quem é esse Robert?
+    '  Homem Governo: Injusto?! Quem você pensa que é fedelho para achar que se sabe algo de justiça? Quem é esse Robert?
     '
     '  Prefeito:      Ele é [Name] filho dos acusados. Você diz que o julgamento está sendo injusto, qual é o seu argumento sobre isso?
     '
     '  Principal:     Simples tio, os meus pais não tiverem um direito digno de se defender.
     '
-    '  Homem Governo: Que? É claro que eles tiveram! Tanto que este jugamento está ocorrendo agora, onde nós demos a oportunidade deles se defenderem.
+    '  Homem Governo: Que? É claro que eles tiveram! Tanto que este jugamento está ocorrendo agora, onde eles tem a oportunidade de se defendeder.
     '
     '  Principal:     Oportunidade? O julgamento começou logo assim que eles foram presos! Nem tiveram tempo de armar uma defesa e colher provas e
     '                 testemunhas ao seu favor!
     '
-    '  Homem Governo: As coisas sempre funcionaram assim, se um camponês ignorante não sabe isso já não é problema meu.
+    '  Homem Governo: As coisas sempre funcionaram assim, se um camponês ignorante não sabe isso já não é meu problema.
     '
     '  Principal:     Eu discordo, pois digo que não é assim que um julgamento justo ocorre!
     '
@@ -102,7 +103,7 @@ Ele balançou a cabeça confirmando enquanto suava frio, então Rodrigo começou
     '  Homem Governo: Escola de *********?!
     '
     '  Prefeito:      Sim Frederick, mesmo a minha sobrinha não sendo de classe alta eu disponibilizei dinheiro para que o seu filho pudesse estudar
-    '                 e ter um futuro promisso. o rapaz é brilhante admito, tanto atléticamente quanto mentalmente. Ele é o filho que eu nunca pude ter.
+    '                 e ter um futuro promissor. O rapaz é brilhante admito, tanto atléticamente quanto mentalmente. Ele é o filho que eu nunca pude ter.
     '
     '  Prefeito:      O que ele diz faz sentindo e seus argumentos tem base na lei. Pois então eu dou esse veredito, o julgamento ficará suspenso por
     '                 60 dias enquanto você [Name] prepara a sua defesa para salvar os seus país. Enquanto isso os acusados ficaram presos até que o
@@ -120,7 +121,67 @@ Ele balançou a cabeça confirmando enquanto suava frio, então Rodrigo começou
     '  Prefeito:      Eu já disse Frederick eu sou o...
     '
     '  Homem Governo: Sei que é o prefeito da cidade, mas eu sou o conselheiro do rei. E o que eu digo tem mais peso do que a sua palavra. Você pode
-    '                 ser um homem do rei, mas eu sou maior que você. A sua sentença foi dada,mas  agora recorremos a do rei. Os verdadeiros culpados
-    '                 serã condenados isso eu não duvido, porém tenho que ter certeza que o laço familiar não vai atrapalhar que a justiça seja feita,
+    '                 ser um homem do rei, mas eu sou maior que você. A sua sentença foi dada, mas agora recorremos a do rei. Os verdadeiros culpados
+    '                 serão condenados isso eu não duvido, porém tenho que ter certeza que o laço familiar não vai atrapalhar que a justiça seja feita,
     '                 e creio que o rei não irá discordar de mim. Ou acha que é mais justo que o rei?
+    '
+    '  Três pontos aparecem na cabeça do prefeito.
+    '
+    '
+    '  Prefeito:      Que assim seja então!
+    '
+    '  Governo homem: Perfeito então! Sei que o rei fará justiça!
+    '
+    '  Governo homem: Guarda leve os prisoneiros!
+    '
+    '  Os guardas levam os pais do principal a força.
+    '
+    '  Prefeito:      Eu digo que este julgamento esta acabado, peço todos voltem a suas casas e agradeço por estarem aqui. Menos [Name], peço
+    '                 que você venha comigo até a minha sala preciso falar com você.
+    '
+    '  O principal vai em direção ao seu tio e aos poucos a tela vai escurecendo.
+    '  Na sala do prefeito ele esta sentado em sua mesa enquanto o principal está sentado a sua frente.
+    '
+    '  Prefeito:      Maldito seja Frederick! Ele nunca aceitou o fato de ter perdido nas eleições para mim!
+    '
+    '  Prefeito:      Desculpe você ter que ouvir isso sobrinho, mas quase pulei no pescoço daquela vibóra no julgamento. Tenho que agradecer a você
+    '                 por conseguir pensar em um jeito de ganharmos tempo para provar a inocencia dos seus pais.
+    '
+    '  1)Apenas fiz o que tinha que ser feito.
+    '   {
+    '       Prefeito: E fez de maneira correta! Nessas suas atituldes que você toma que me faz ter cada vez mais orgulho de ti sobrinho.
+    '   }
+    '
+    '  2)É o minimo que eu podia fazer pelos os meus pais.
+    '   {
+    '       Prefeito: De fato, mesmo que você tenha se criado quase interamente na minha casa, eles ainda são os seus pais.
+    '   }
+    '
+    '  3) Qual é o nosso próximo passo?
+    '   {
+    '       Prefeito: Essa é parte complicada, mas eu tenho algo em mente.
+    '   }
+    '
+    '   Prefeito:      Você sabe exatamente do que os seus pais estão sendo acusados?
+    '
+    '  1)Sei sim.
+    '   {
+    '       Prefeito: Certo, o meu plano é seguinte.
+    '   }
+    '
+    '  1)Mais ou menos. Apenas ouvi alguns relatos confusos.
+    '   {
+    '       Prefeito: Entendo, com uma situação dessas surgem vários boatos inacreditáveis. Vou te deixar a par de toda a situação.
+    '
+    '       Prefeito: A verdade é que o seus pais se arriscaram de mais, eles não te contaram isso, porém as viagens que eles fazem como mercadores na região de Rejoir não está
+    '                 dando o mesmo lucro que antigamente. Com isso eles se arriscaram nessa viagem a novas regiões. Não sei se eles te mostraram o mapa de viagens=, mas uma das
+    '                 cidades que eles iam passar é em Meinter e meu Deus! Como o povo dessa cidade é ignorante.
+    '
+    '       Prefeito: Eles não são pobres isso eu admito, mas são intolerantes a qualquer tipo de pessoa que não seja do meio deles. Para eles as pessoas das outras cidades são
+    '                 apenas "gente que sobrevive graças as nossas fazendas", mas ao menos eles não são agressivos, mas continuam odiando estrangeiros. O problema é que um casal
+    '                 de idosos dessa cidade afirmavam que sabiam a localização da base dos rebeldes pois o neto deles trabalhava lá, mas antes dos agentes do rei chegarem lá
+    '                 eles foram mortos. Todos da cidade ficaram chocados da maneira brutal que eles foram assassinados e queriam mais que tudo achar os culpados por isso. Foi ai que
+    '                 o seus pais entraram, como eles eram estrangeiros na cidade e a arma do crime foi comprada na tenda deles logo caiu a culpa neles. Eles fugiram até mim antes dos
+    '                 guardas reais os pegarem. Infelizmente por causa dessa xenofobia do povo de Meinter eles acabaram sendo acusados injustamente e agora estão perto de serem mortos.
+    '   }
 
